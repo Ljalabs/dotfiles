@@ -116,5 +116,5 @@ if ! shopt -oq posix; then
   fi
 fi
 
-# set environment variable for fido helper
+# set environment variable for WSL2 fido helper
 export SSH_SK_HELPER="/mnt/c/Windows/System32/OpenSSH/ssh-sk-helper.exe"
