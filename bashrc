@@ -118,3 +118,7 @@ fi
 
 # set environment variable for WSL2 fido helper
 export SSH_SK_HELPER="/mnt/c/Windows/System32/OpenSSH/ssh-sk-helper.exe"
+
+# set environment variables for default text editor
+export EDITOR=vim
+export VISUAL=vim
